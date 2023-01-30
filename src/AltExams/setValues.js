@@ -38,7 +38,7 @@ function Check() {
         
         <h2 className='count'>count: {updated}</h2>
   
-        <button className="action-btn" onClick={handleDecrement}>Decrements</button><br/><br/><br/>
+        <button className="action-btn" onClick={handleDecrement}>Decrement</button><br/><br/><br/>
         <button className="action-btn" onClick={handleReset}>Reset</button><br/><br/><br/>
         <button className="action-btn" onClick={handleIncrement}>Increment</button><br/><br/><br/>
   
